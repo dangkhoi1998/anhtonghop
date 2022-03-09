@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Setting>
+    <linkssh>http://sshmanager.online</linkssh>
+    <timetoupdatessh>0</timetoupdatessh>
+    <location>True</location>
+    <loopssh>False</loopssh>
+    <autosave>True</autosave>
+    <changebymanual>True</changebymanual>
+    <changebyscheduled>False</changebyscheduled>
+    <importsshfromfile>True</importsshfromfile>
+    <pprofilename>Sino</pprofilename>
+    <prulename>Store</prulename>
+    <randomssh>False</randomssh>
+    <scheduleddelay>60</scheduleddelay>
+    <timezone>True</timezone>
+    <timeout>9</timeout>
+    <port>1083</port>
+    <checksshused>False</checksshused>
+    <checkerror>False</checkerror>
+    <delsshdieinfile>True</delsshdieinfile>
+    <lastsshpath>C:\Users\DELL\Downloads\VN[16-02-03]19-03-2021.txt</lastsshpath>
+    <whoershowinfo>True</whoershowinfo>
+    <whoercheckproxy>False</whoercheckproxy>
+    <whoercheckbl>False</whoercheckbl>
+  </Setting>
+</Root>
